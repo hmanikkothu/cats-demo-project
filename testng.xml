@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="TestNgMavenExampleSuite" parallel="false">
-  <test name="TestNgMavenTest">
+<suite name="CatsFrameworkDemoSuite" parallel="false">
+  <test name="GuideNavigationTest">
     <classes>
       <class name="com.ocatsdemo.testng.testngMaven.AppTest"/>
       <class name="com.ocatsdemo.testng.testngMaven.CatsDemoApp"/>

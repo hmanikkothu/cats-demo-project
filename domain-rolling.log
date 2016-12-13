@@ -1,0 +1,702 @@
+2016-12-12 13:51:40,079 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@f2ff811: startup date [Mon Dec 12 13:51:40 EST 2016]; root of context hierarchy
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 56 System Properties!
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_74\bin
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=25.74-b02
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 13:51:40,240 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.8.0_74-b02
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 13:51:40,241 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=52.0
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.8
+2016-12-12 13:51:40,242 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar;C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.8
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=org.testng.remote.RemoteTestNG -serport 57539 -protocol json -d C:\CatsAutomation\demo-ocats\testngMaven\test-output C:\Users\HMANIK~1\AppData\Local\Temp\testng-eclipse--1097447871\testng-customsuite.xml
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jre1.8.0_74
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.8.0_74
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 13:51:40,243 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 13:51:40,244 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 13:51:40,289 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 13:51:40,289 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 13:51:40,289 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 13:51:40,303 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 13:51:40,307 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 13:51:40,352 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 13:51:40,352 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 13:51:40,353 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 13:51:40,353 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 13:51:40,353 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 13:51:40,353 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 13:51:40,354 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 13:51:40,354 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 13:51:40,355 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 13:51:40,355 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 13:51:40,356 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 13:51:40,356 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 9c3dc03e-b7b5-4617-be36-e09a1b3e4c8a
+2016-12-12 13:51:41,308 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@3676ac27com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@62f87c44com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@48f5bde6com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 13:51:41,848 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 13:51:41,848 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 13:51:41,849 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 13:51:41,849 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 13:55:20,892 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@13456617: startup date [Mon Dec 12 13:55:20 EST 2016]; root of context hierarchy
+2016-12-12 13:55:21,027 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 60 System Properties!
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jdk1.7.0_79\jre\bin
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=24.79-b02
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 13:55:21,028 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 13:55:21,029 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.7.0_79-b15
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] basedir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 13:55:21,030 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed
+2016-12-12 13:55:21,031 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 13:55:21,031 INFO  [com.comcast.cats.domain.configuration.CatsHome] surefire.real.class.path=C:\CatsAutomation\demo-ocats\testngMaven\target\surefire\surefirebooter8494415446723084418.jar
+2016-12-12 13:55:21,031 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 13:55:21,031 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 13:55:21,031 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 13:55:21,032 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 13:55:21,032 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 13:55:21,032 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 13:55:21,032 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jdk1.7.0_79\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;.
+2016-12-12 13:55:21,033 INFO  [com.comcast.cats.domain.configuration.CatsHome] surefire.test.class.path=C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=51.0
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 13:55:21,034 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.7
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.7
+2016-12-12 13:55:21,035 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=C:\CatsAutomation\demo-ocats\testngMaven\target\surefire\surefirebooter8494415446723084418.jar C:\CatsAutomation\demo-ocats\testngMaven\target\surefire\surefire465865927122544087tmp C:\CatsAutomation\demo-ocats\testngMaven\target\surefire\surefire_07730155162200111080tmp
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jdk1.7.0_79\jre
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.7.0_79
+2016-12-12 13:55:21,036 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 13:55:21,037 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes
+2016-12-12 13:55:21,037 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 13:55:21,037 INFO  [com.comcast.cats.domain.configuration.CatsHome] localRepository=C:\Users\hmanikkothu\.m2\repository
+2016-12-12 13:55:21,037 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 13:55:21,038 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 13:55:21,038 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 13:55:21,038 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 13:55:21,038 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 13:55:21,038 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 13:55:21,102 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 13:55:21,102 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 13:55:21,102 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 13:55:21,108 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 13:55:21,112 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 13:55:21,149 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 13:55:21,149 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 13:55:21,150 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 13:55:21,150 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 13:55:21,150 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 13:55:21,151 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 13:55:21,151 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 13:55:21,152 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 13:55:21,152 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 13:55:21,153 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 13:55:21,153 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 13:55:21,153 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 26372ec5-a751-4a1e-b0e0-f9c7e23489e0
+2016-12-12 13:55:22,178 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@6889634ccom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@13d64832com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@591dd4cacom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 13:55:22,725 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 13:55:22,726 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.4-b01: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 13:55:22,728 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.4-b01: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 13:55:22,728 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 13:59:44,131 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@f2ff811: startup date [Mon Dec 12 13:59:44 EST 2016]; root of context hierarchy
+2016-12-12 13:59:44,258 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 56 System Properties!
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_74\bin
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=25.74-b02
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 13:59:44,259 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.8.0_74-b02
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 13:59:44,260 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=52.0
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.8
+2016-12-12 13:59:44,261 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar;C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.8
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=org.testng.remote.RemoteTestNG -serport 62624 -protocol json -d C:\CatsAutomation\demo-ocats\testngMaven\test-output C:\Users\HMANIK~1\AppData\Local\Temp\testng-eclipse--1902989475\testng-customsuite.xml
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jre1.8.0_74
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 13:59:44,263 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.8.0_74
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 13:59:44,264 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 13:59:44,316 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 13:59:44,317 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 13:59:44,317 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 13:59:44,323 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 13:59:44,327 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 13:59:44,372 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 13:59:44,372 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 13:59:44,372 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 13:59:44,379 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 13:59:44,379 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 13:59:44,380 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 13:59:44,380 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 13:59:44,380 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 13:59:44,380 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 13:59:44,381 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 13:59:44,381 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 13:59:44,381 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = cc9102e4-0414-407b-81aa-fe88eb4186f6
+2016-12-12 13:59:45,226 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@3676ac27com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@62f87c44com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@48f5bde6com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 13:59:45,751 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 13:59:45,751 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 13:59:45,751 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 13:59:45,752 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 14:01:15,582 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@f2ff811: startup date [Mon Dec 12 14:01:15 EST 2016]; root of context hierarchy
+2016-12-12 14:01:15,713 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 56 System Properties!
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_74\bin
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=25.74-b02
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 14:01:15,714 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.8.0_74-b02
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 14:01:15,715 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=52.0
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.8
+2016-12-12 14:01:15,716 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar;C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.8
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=org.testng.remote.RemoteTestNG -serport 55666 -protocol json -d C:\CatsAutomation\demo-ocats\testngMaven\test-output C:\Users\HMANIK~1\AppData\Local\Temp\testng-eclipse-1381332761\testng-customsuite.xml
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jre1.8.0_74
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.8.0_74
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+2016-12-12 14:01:15,717 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 14:01:15,718 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 14:01:15,765 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 14:01:15,766 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 14:01:15,766 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 14:01:15,772 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 14:01:15,776 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 14:01:15,828 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 14:01:15,828 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 14:01:15,829 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 14:01:15,829 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 14:01:15,829 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 14:01:15,829 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 14:01:15,831 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 14:01:15,831 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 14:01:15,831 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 14:01:15,831 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 14:01:15,832 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 14:01:15,832 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 81efebb0-2664-49ca-bd76-2acd69e5c7d4
+2016-12-12 14:01:16,670 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@3676ac27com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@62f87c44com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@48f5bde6com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 14:01:17,140 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 14:01:17,140 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 14:01:17,140 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 14:01:17,140 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 14:02:07,242 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@9a7504c: startup date [Mon Dec 12 14:02:07 EST 2016]; root of context hierarchy
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 56 System Properties!
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_74\bin
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=25.74-b02
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 14:02:07,366 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.8.0_74-b02
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=52.0
+2016-12-12 14:02:07,367 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.8
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar;C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 14:02:07,368 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.8
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=org.testng.remote.RemoteTestNG -serport 58770 -protocol json -d C:\CatsAutomation\demo-ocats\testngMaven\test-output C:\Users\HMANIK~1\AppData\Local\Temp\testng-eclipse--110662177\testng-customsuite.xml
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jre1.8.0_74
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.8.0_74
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 14:02:07,369 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 14:02:07,370 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 14:02:07,370 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 14:02:07,370 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 14:02:07,370 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 14:02:07,405 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 14:02:07,406 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 14:02:07,406 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 14:02:07,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 14:02:07,414 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 14:02:07,447 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 14:02:07,447 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 14:02:07,447 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 14:02:07,448 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 14:02:07,448 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 14:02:07,448 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 14:02:07,448 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 14:02:07,449 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 14:02:07,449 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 14:02:07,449 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 14:02:07,450 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 14:02:07,450 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 3e4fbf80-43b2-417f-843f-c6e32e65fcff
+2016-12-12 14:02:08,358 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@27462a88com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@82de64acom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@659499f1com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 14:02:08,795 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 14:02:08,795 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 14:02:08,795 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 14:02:08,795 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 14:02:58,375 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@9a7504c: startup date [Mon Dec 12 14:02:58 EST 2016]; root of context hierarchy
+2016-12-12 14:02:58,481 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 56 System Properties!
+2016-12-12 14:02:58,481 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 14:02:58,481 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_74\bin
+2016-12-12 14:02:58,481 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=25.74-b02
+2016-12-12 14:02:58,481 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 14:02:58,482 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\testngMaven
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.8.0_74-b02
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 14:02:58,483 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=52.0
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.8
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar;C:\CatsAutomation\demo-ocats\testngMaven\target\test-classes;C:\CatsAutomation\demo-ocats\testngMaven\target\classes;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar;C:\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar;C:\CatsAutomation\demo-ocats\testngMaven\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 14:02:58,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.8
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=org.testng.remote.RemoteTestNG -serport 57678 -protocol json -d C:\CatsAutomation\demo-ocats\testngMaven\test-output C:\Users\HMANIK~1\AppData\Local\Temp\testng-eclipse--1830612353\testng-customsuite.xml
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jre1.8.0_74
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.8.0_74
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 14:02:58,485 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 14:02:58,486 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 14:02:58,486 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 14:02:58,486 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 14:02:58,523 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 14:02:58,524 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 14:02:58,524 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 14:02:58,530 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 14:02:58,533 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 14:02:58,568 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 14:02:58,569 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 14:02:58,569 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 14:02:58,569 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 14:02:58,569 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 14:02:58,569 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 14:02:58,572 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 14:02:58,572 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 14:02:58,574 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 14:02:58,574 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 14:02:58,575 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 14:02:58,575 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 7dd7d29b-5620-4e6d-b505-70b137b12e2d
+2016-12-12 14:02:59,335 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@27462a88com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@82de64acom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@659499f1com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 14:02:59,815 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 14:02:59,815 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 14:02:59,815 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.9-b130926.1035 svn-revision#5f6196f2b90e9460065a4c2f4e30e065b245e51e: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 14:02:59,815 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 14:03:01,199 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:01,754 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:02,145 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:02,536 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:02,979 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:03,486 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:03,980 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:04,412 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:04,918 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:05,334 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:05,749 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:09,414 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:03:09,849 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:25,279 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@13456617: startup date [Mon Dec 12 14:06:25 EST 2016]; root of context hierarchy
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 60 System Properties!
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jdk1.7.0_79\jre\bin
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=24.79-b02
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 14:06:25,410 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.7.0_79-b15
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] basedir=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo
+2016-12-12 14:06:25,411 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] surefire.real.class.path=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\surefire\surefirebooter6896243155664741025.jar
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 14:06:25,412 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 14:06:25,413 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 14:06:25,413 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jdk1.7.0_79\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;.
+2016-12-12 14:06:25,413 INFO  [com.comcast.cats.domain.configuration.CatsHome] surefire.test.class.path=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\test-classes;C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\classes;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;
+2016-12-12 14:06:25,413 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=51.0
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 14:06:25,414 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 14:06:25,415 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=Cp1252
+2016-12-12 14:06:25,415 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.7
+2016-12-12 14:06:25,415 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\test-classes;C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\classes;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;C:\Users\hmanikkothu\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;
+2016-12-12 14:06:25,416 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 14:06:25,416 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 14:06:25,416 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.7
+2016-12-12 14:06:25,416 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\surefire\surefirebooter6896243155664741025.jar C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\surefire\surefire3192044228992769823tmp C:\CatsAutomation\demo-ocats\CatsFrameworkDemo\target\surefire\surefire_0221988056515576944tmp
+2016-12-12 14:06:25,416 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jdk1.7.0_79\jre
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.7.0_79
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 14:06:25,417 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] localRepository=C:\Users\hmanikkothu\.m2\repository
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 14:06:25,418 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 14:06:25,477 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 14:06:25,478 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 14:06:25,478 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 14:06:25,484 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 14:06:25,489 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 14:06:25,521 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 14:06:25,522 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 14:06:25,522 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 14:06:25,523 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 14:06:25,523 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 14:06:25,523 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 14:06:25,524 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 14:06:25,524 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 14:06:25,525 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 14:06:25,526 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 14:06:25,526 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 14:06:25,527 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = a9d85d06-2051-4cf1-a7bb-7f2bf8a035dd
+2016-12-12 14:06:26,258 INFO  [com.comcast.cats.domain.service.EnvironmentServiceImpl] EnvironmentServiceImpl services [com.comcast.cats.domain.Service@13d64832com.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/ir-service/IRService?wsdl, serviceType=IR, version=null], com.comcast.cats.domain.Service@591dd4cacom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/power-service/PowerService?wsdl, serviceType=POWER, version=null], com.comcast.cats.domain.Service@357d477bcom.comcast.cats.domain.Service [id=null, name=null, createdDate=null, lastModifiedDate=null, revision=null]com.comcast.cats.domain.Service [path=http://10.10.149.65/, serviceType=RECORDER, version=null]]
+2016-12-12 14:06:26,786 INFO  [com.comcast.cats.EnvironmentFactory] ----------------Web Service Binding for [00:19:5E:C4:91:59]-------------------
+2016-12-12 14:06:26,787 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.4-b01: Stub for http://10.10.149.65:8080/power-service/PowerService
+2016-12-12 14:06:26,787 INFO  [com.comcast.cats.EnvironmentFactory] JAX-WS RI 2.2.4-b01: Stub for http://10.10.149.65:8080/ir-service/IRService
+2016-12-12 14:06:26,787 INFO  [com.comcast.cats.EnvironmentFactory] ------------------------------------------------------------------------------
+2016-12-12 14:06:28,119 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:28,717 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:29,216 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:29,810 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:30,285 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:30,841 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:31,333 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:31,829 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:32,367 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:32,877 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:33,593 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:34,044 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:34,827 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:35,308 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:35,994 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:36,479 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:36,956 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:37,397 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 14:06:37,688 INFO  [com.comcast.cats.video.service.VideoController] Retrieve Image[http://10.10.149.66/axis-cgi/jpg/image.cgi?camera=1&resolution=4CIF]
+2016-12-12 20:53:50,542 INFO  [com.comcast.cats.configuration.OCatsContext] Refreshing com.comcast.cats.configuration.OCatsContext@a836fa5: startup date [Mon Dec 12 20:53:50 EST 2016]; root of context hierarchy
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] Found 59 System Properties!
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.name=Java(TM) SE Runtime Environment
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.library.path=C:\Program Files\Java\jdk1.7.0_79\jre\bin
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.version=24.79-b02
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.vendor=Oracle Corporation
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url=http://java.oracle.com/
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] path.separator=;
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.settop.default=00:19:5E:C4:91:59
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] idea.launcher.port=7534
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding.pkg=sun.io
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.country=US
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.script=
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.launcher=SUN_STANDARD
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.os.patch.level=Service Pack 1
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.name=Java Virtual Machine Specification
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.dir=C:\CatsAutomation\demo-ocats\cats-demo-project
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.runtime.version=1.7.0_79-b15
+2016-12-12 20:53:50,676 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.endorsed.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.arch=amd64
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.io.tmpdir=C:\Users\HMANIK~1\AppData\Local\Temp\
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] line.separator=
+
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.vendor=Oracle Corporation
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.variant=
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.name=Windows 7
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.jnu.encoding=Cp1252
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.library.path=C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_74/bin/server;C:/Program Files/Java/jre1.8.0_74/bin;C:/Program Files/Java/jre1.8.0_74/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\Python27\DLLs;C:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Perforce;C:\Program Files\Perforce\DVCS\;C:\Program Files (x86)\scala\bin;C:\opt\darn\main\3rdparty\apache-ant-1.7.0\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\gradle-2.11;C:\Program Files (x86)\Graphviz2.38\bin;C:\opt\darn\main\test\libs;C:\Utilities\apache-maven-3.3.9\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\hmanikkothu\AppData\Local\Android\sdk\tools;C:\Users\hmanikkothu\Anaconda2;C:\Users\hmanikkothu\Anaconda2\Scripts;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\hmanikkothu\AppData\Roaming\npm;C:\Users\hmanikkothu\AppData\Local\atom\bin;C:\eclipse;;.
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.name=Java Platform API Specification
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.version=51.0
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] os.version=6.1
+2016-12-12 20:53:50,677 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home=C:\Users\hmanikkothu
+2016-12-12 20:53:50,678 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.timezone=America/New_York
+2016-12-12 20:53:50,678 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.awt.printerjob=sun.awt.windows.WPrinterJob
+2016-12-12 20:53:50,678 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.encoding=UTF-8
+2016-12-12 20:53:50,678 INFO  [com.comcast.cats.domain.configuration.CatsHome] idea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\bin
+2016-12-12 20:53:50,681 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.version=1.7
+2016-12-12 20:53:50,681 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.class.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\lib\idea_rt.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\plugins\testng\lib\testng-plugin.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfxrt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\CatsAutomation\demo-ocats\cats-demo-project\target\test-classes;C:\CatsAutomation\demo-ocats\cats-demo-project\target\classes;C:\Users\hmanikkothu\.m2\repository\org\testng\testng\6.8.8\testng-6.8.8.jar;C:\Users\hmanikkothu\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\hmanikkothu\.m2\repository\com\beust\jcommander\1.27\jcommander-1.27.jar;C:\CatsAutomation\demo-ocats\cats-demo-project\src\libs\catsvision-1.1-OCATS-SNAPSHOT-jar-with-dependencies.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\plugins\testng\lib\jcommander.jar
+2016-12-12 20:53:50,681 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.name=hmanikkothu
+2016-12-12 20:53:50,681 INFO  [com.comcast.cats.domain.configuration.CatsHome] cats.server.url=http://10.10.149.65/
+2016-12-12 20:53:50,681 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.specification.version=1.7
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.java.command=com.intellij.rt.execution.application.AppMain org.testng.RemoteTestNGStarter -port 57179 -usedefaultlisteners false -socket57180 @w@C:\Users\hmanikkothu\AppData\Local\Temp\idea_working_dirs_testng0.tmp -temp C:\Users\hmanikkothu\AppData\Local\Temp\idea_testng0.tmp
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.home=C:\Program Files\Java\jdk1.7.0_79\jre
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.arch.data.model=64
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.language=en
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.specification.vendor=Oracle Corporation
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] idea.testng.sm_runner=
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] awt.toolkit=sun.awt.windows.WToolkit
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vm.info=mixed mode
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.version=1.7.0_79
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.ext.dirs=C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.boot.class.path=C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor=Oracle Corporation
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] file.separator=\
+2016-12-12 20:53:50,682 INFO  [com.comcast.cats.domain.configuration.CatsHome] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+2016-12-12 20:53:50,683 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.io.unicode.encoding=UnicodeLittle
+2016-12-12 20:53:50,683 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.endian=little
+2016-12-12 20:53:50,683 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.desktop=windows
+2016-12-12 20:53:50,683 INFO  [com.comcast.cats.domain.configuration.CatsHome] sun.cpu.isalist=amd64
+2016-12-12 20:53:50,722 INFO  [com.comcast.cats.domain.configuration.CatsHome] SetSystemCatsHome[null]
+2016-12-12 20:53:50,722 INFO  [com.comcast.cats.domain.configuration.CatsHome] user.home not found!
+2016-12-12 20:53:50,722 INFO  [com.comcast.cats.domain.configuration.CatsHome] Setting DefaultCatsHome [C:\Users\hmanikkothu\cats]
+2016-12-12 20:53:50,727 INFO  [com.comcast.cats.domain.configuration.CatsHome] CatsHome[C:\Users\hmanikkothu\cats]
+TmpHome[C:\Users\hmanikkothu\cats\tmp]
+
+2016-12-12 20:53:50,730 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Loading cats.props [C:\Users\hmanikkothu\cats\cats.props]
+2016-12-12 20:53:50,801 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.name] is NULL
+2016-12-12 20:53:50,801 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.server.url] = http://10.10.149.65/
+2016-12-12 20:53:50,802 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] is NULL
+2016-12-12 20:53:50,802 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.config.url] is NULL
+2016-12-12 20:53:50,802 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[settop.url] is NULL
+2016-12-12 20:53:50,803 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[strings.dm.location] is NULL
+2016-12-12 20:53:50,803 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.settop.default] = 00:19:5E:C4:91:59
+2016-12-12 20:53:50,803 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.ocr.server.url] is NULL
+2016-12-12 20:53:50,804 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.fullname] is NULL
+2016-12-12 20:53:50,804 WARN  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.email] is NULL
+2016-12-12 20:53:50,804 INFO  [com.comcast.cats.domain.configuration.CatsProperties] CatsProperties [authToken=null, serverUrl=http://10.10.149.65/, configServerUrl=null, inputFilePath=null, username=null, fullname=null, email=null, stringsDMFileLocation=null, defaultSettopMac=00:19:5E:C4:91:59, ocrServerUrl=null, cats.props={cats.server.url=http://10.10.149.65/, cats.settop.default=00:19:5E:C4:91:59}]
+2016-12-12 20:53:50,804 INFO  [com.comcast.cats.domain.configuration.CatsProperties] Key[cats.user.authToken] = 22196626-ad6b-4f2a-8484-0a5a82c7268d
